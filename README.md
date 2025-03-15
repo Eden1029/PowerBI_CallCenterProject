@@ -34,6 +34,13 @@ The dataset was analyzed using **Power BI** for visualization and **Excel** for 
 
 ---
 
+## 📐 Data Modeling
+Below is the star schema model used in this project:
+
+![Data Model](https://github.com/Eden1029/PowerBI_CallCenterProject/blob/main/Call%20Center%20Trend%20Data%20Model.png)
+
+---
+
 ## 🔍 Key Insights & Trends  
 
 ### 1️⃣ **Call Handling Performance**  
